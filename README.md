@@ -1,10 +1,9 @@
+<h1 align="center">ModZero</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-20-blue?style=flat-square&logo=c%2B%2B" alt="C++20">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/protocol-Modbus-orange?style=flat-square" alt="Modbus">
 </p>
-
-<h1 align="center">ModZero</h1>
 <p align="center"><em>ModBus Exploration Tool — Industrial Control Systems Reconnaissance & Assessment</em></p>
 
 ---
