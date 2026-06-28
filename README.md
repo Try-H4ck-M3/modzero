@@ -92,7 +92,7 @@ modzero -i <target_ip> [options] [action(s)]
 
 ## Project Structure
 
-```
+```bash
 modzero/
 ├── build.sh              # Build script
 ├── bin/
@@ -109,6 +109,12 @@ modzero/
 
 ## Roadmap
 
+- [X] Device reconnaissance via Modbus FC 43 / MEI 0x0E
+- [X] Slave ID brute-force (1–247)
+- [X] Memory dumping — coils, discrete inputs, input registers, holding registers
+- [X] Intelligent boundary detection with range coalescing
+- [X] Color-coded timestamped logging
+- [X] ASCII art banner
 - [ ] Write functionality (coil/register write operations)
 - [ ] Configurable address ranges
 - [ ] Machine-readable output formats (JSON, CSV)
